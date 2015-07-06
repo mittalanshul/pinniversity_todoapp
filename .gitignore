@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.settings/
+bin/
+gen/
+out/
+*.iml
+target/
+classes/
+tmp/
+*gradle-wrapper.pro*
